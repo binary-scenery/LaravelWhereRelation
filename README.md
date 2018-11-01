@@ -1,5 +1,5 @@
 # LaravelWhereRelation
-Adding a 'whereRelation' query to laravel
+Adding a 'whereRelation' query to Laravel
 
 This is a snippet I use all the time, it returns a query with a condition on a relations.
 
