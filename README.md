@@ -10,11 +10,11 @@ Copy and paste the file to wherever you store your traits, then reference the tr
 (don't forget to update the namespace)
 
 
-`use App\Traits\QueryRelations ;`
+`use App\Traits\WhereRelation ;`
 
 ..then in the model class:
 
-`use QueryRelations ;`
+`use WhereRelation ;`
 
 
 ## Usage
