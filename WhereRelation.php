@@ -1,7 +1,7 @@
 <?php
 namespace App\Traits\Model ;
 
-trait QueryRelations {
+trait WhereRelation {
 
     /**
      * Queries a model based on a condition of a relation.
